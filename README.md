@@ -1,7 +1,7 @@
 # CS-340-Client-Server-Development-
 
 # How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
-
+To write programs that are maintainable, readable, and adaptable, the first step is to write code that is easy to read. Easy-to-read code is code that is easier to guess what it’s going to do. Next, is to follow a convention. To make it simpler to understand and modify, code should be written in a consistent manner. If a language has a common standard, it should be adhered to and, if practical, checked automatically each time a file is saved. Another way is to give meaningful names to variables. Using descriptive variable names can greatly improve readability and comprehension. Writing small classes and functions will help the readability and adaptability of code. Lastly, Comments should add value to the code and not overcomplicate it. If comments are maintained current and provide justifications for why something was done in a certain manner, they bring a lot of value. Avoid making comments that are so long and ineffective since they will only contribute to chaos and confusion.
 
 # How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
